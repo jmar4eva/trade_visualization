@@ -5,6 +5,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import time
 import streamlit as st
+import openpyxl
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 path = 'data.xlsx'
